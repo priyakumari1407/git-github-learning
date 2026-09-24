@@ -1,0 +1,13 @@
+Git and GitHub Learning
+
+Today I am learning the basics of Git and GitHub.
+
+Topics I am practicing:
+1. Git status
+2. Git add
+3. Git commit
+4. Git push
+5. Git log
+
+Git helps me track changes in my project.
+GitHub stores my Git repository online.
