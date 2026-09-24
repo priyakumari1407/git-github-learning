@@ -11,3 +11,5 @@ Topics I am practicing:
 
 Git helps me track changes in my project.
 GitHub stores my Git repository online.
+
+I successfully pushed my first practice file to GitHub.
